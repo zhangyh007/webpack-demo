@@ -1,0 +1,10 @@
+#div1 {
+  background: red url(./../images/big.jpg);
+  background-size: contain;
+}
+.box {
+  width: 200px;
+  height: 200px;
+  background: url(./../images/logo.jpg) no-repeat;
+  background-size: contain;
+}
